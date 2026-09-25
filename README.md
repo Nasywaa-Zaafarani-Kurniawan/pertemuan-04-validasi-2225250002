@@ -1,4 +1,4 @@
-# pertemuan-04-svalidasi-2225250002
+# pertemuan-04-validasi-2225250002
 
 ## Identitas
 * **Nama**: Nasywaa Zaafarani Kurniawan
