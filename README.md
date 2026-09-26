@@ -59,5 +59,3 @@ python latihan/05_klasifikasi_sudut_segitiga.py
 Dalam praktikum Pertemuan 4 ini, saya mempelajari pentingnya validasi input menggunakan blok try-except serta penerapan struktur seleksi multikondisi menggunakan rantai if-elif-else.
 
 Hal yang paling saya pahami adalah bagaimana menyusun kondisi secara berurutan (menurun) agar tidak ada kasus yang tumpang tindih, seperti pada penentuan predikat nilai dan validasi rentang. Kendala yang sempat saya hadapi adalah ketelitian dalam menentukan posisi blok percabangan (menempatkan if di dalam else atau mengatur tingkat indentasi yang tepat). Terkadang saya keliru meletakkan posisi pengecekan syarat kehadiran di dalam atau di luar blok perhitungan nilai, sehingga program mengeksekusi alur logika yang tidak sesuai. Masalah ini berhasil saya atasi dengan merancang kerangka logika secara bertahap: memvalidasi input terlebih dahulu, menghitung nilai akhir, memeriksa syarat kehadiran minimum, lalu menentukan predikat dan status kelulusan. Ketika menemukan kendala penulisan sintaks dan penempatan struktur percabangan, saya dibantu oleh AI Gemini untuk mengonfirmasi logika kodenya.
-
-### Sumber yang Digunakan
